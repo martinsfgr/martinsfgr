@@ -19,6 +19,3 @@
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
  </p>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=martinsfgr&count_private=true&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE&line_height=21&hide=prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsfgr&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
