@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/3o6fJ5z2bgCLBshZUA/source.gif" alt="Skeleton Computer Animated" />
-</p>
+<h1 align="center">Hi 👋, I'm Mauricio</h1>
 
 <p align="center">
+   <a href = "mailto:contato@seu-usuário-aqui">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
   <a href="https://www.linkedin.com/in/mauriciofmartins/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+ 
+  
   <a href="https://www.instagram.com/martins.fgr/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -19,3 +22,8 @@
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
  </p>
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/3o6fJ5z2bgCLBshZUA/source.gif" alt="Skeleton Computer Animated" />
+</p>
